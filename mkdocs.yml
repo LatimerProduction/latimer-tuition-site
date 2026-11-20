@@ -1,0 +1,6 @@
+site_name: Latimer Tuition
+site_description: One-to-one online tuition for UK families
+site_url: https://latimer-tuition.readthedocs.io/
+theme: readthedocs
+nav:
+  - Home: index.md
